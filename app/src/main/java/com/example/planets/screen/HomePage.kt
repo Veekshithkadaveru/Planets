@@ -235,6 +235,6 @@ fun HomePage(
 @Preview
 fun HomePagePreview(){
     HomePage(isVisible = true) {
-        
+
     }
 }
